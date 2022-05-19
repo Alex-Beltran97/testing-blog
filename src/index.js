@@ -1,5 +1,6 @@
 import getForm from "./utils/form.js";
 import fetchData from "./utils/fetchData.js";
+import '../styles/main.css'
 
 const home = document.getElementById('home');
 const fragment = document.createDocumentFragment(); 
